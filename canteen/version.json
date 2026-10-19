@@ -1,1 +1,8 @@
-{"versionCode":487,"versionName":"0.2.387","apkUrl":"https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019/canteen-0.2.387.apk","notes":"20261019 silent-upgrade production; set otaManifestUrl to this file","sha256":"6705b4c079956a43d0ae19643b30576f4b89d1b323975b261c84d9e723eeb049"}
+{
+  "versionCode": 488,
+  "versionName": "0.2.388",
+  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/canteen-0.2.388.apk",
+  "notes": "20261019b",
+  "sha256": "7737979ea96c31cd39fcc54ff9344608fff8d011c5edc743d1bb5a7e74c5d11f",
+  "manifestSig": "Vp3CzrJDmyz4FFRYQgdh2Efplh5uQ7kLzz/oGnXxjUCNLnIlXnpli/dQbbYsGJQgIJRosSH5lx5CZyq37kiuBw=="
+}
