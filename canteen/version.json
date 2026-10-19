@@ -1,8 +1,8 @@
 {
-  "versionCode": 487,
-  "versionName": "0.2.387",
-  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019/canteen-0.2.387.apk",
-  "notes": "0.2.388 pulled 20261019 (OTA thread crash); no update",
-  "sha256": "6705b4c079956a43d0ae19643b30576f4b89d1b323975b261c84d9e723eeb049",
-  "manifestSig": "avZEuYpQV69HmkKVF23bgdiNuvwgJ2GN6yNkABYEwkM2AL2kg6I8fi9DfoOetIrxSNBQ15cG+O167CZVdWGDCw=="
+  "versionCode": 489,
+  "versionName": "0.2.389",
+  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/canteen-0.2.389.apk",
+  "notes": "20261019b; replaces pulled 0.2.388",
+  "sha256": "50e93ed608e896e710513f763b348b47e7c9e7e04f1bd79d9364e8e1cfe21ec9",
+  "manifestSig": "aBTeW2m2NxAEA7UZz61xuvdmaOGou/rOXbGi9nGLyObdklD5YS9qOZl+/+L4jlbdP9IYWdhhAAOhuZMhTP8gDw=="
 }
