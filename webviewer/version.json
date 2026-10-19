@@ -1,1 +1,7 @@
-{"versionCode":16,"versionName":"2.4.9","apkUrl":"https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/webviewer-2.4.9.apk","notes":"20261019b","sha256":"20647e2fd93957d46b754d8b57d019feaa13cac2d86f0cf66fdf1e0bbeedfd85"}
+{
+  "versionCode": 17,
+  "versionName": "2.4.10",
+  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/webviewer-2.4.10.apk",
+  "notes": "OTA 线程兜底：异常不再导致应用退出",
+  "sha256": "b264349a46dc36ab16a7cd708b48c51664cd1ab4a68b90e82db6c04c263ba139"
+}
