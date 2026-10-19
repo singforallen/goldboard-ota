@@ -1,7 +1,7 @@
 {
-  "versionCode": 232,
-  "versionName": "1.0.232-ext",
-  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/hotelscreen-1.0.232.apk",
-  "notes": "OTA 线程兜底：异常不再导致应用退出",
-  "sha256": "63b8201bbb2186a3cd842824c3c69302fd8f162a16226733f82701870f6a19db"
+  "versionCode": 233,
+  "versionName": "1.0.233-ext",
+  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/hotelscreen-1.0.233.apk",
+  "notes": "静默升级后回前台；永久会员显示「永久」",
+  "sha256": "368bfc71e0bd7deae8deffa4a26e09156a55ebfbbe5e2ba08e066909eeeb8f54"
 }

@@ -1,1 +1,7 @@
-{"versionCode":230,"versionName":"1.0.230-ext","apkUrl":"https://github.com/singforallen/goldboard-ota/releases/download/silent-test-20261019/hs-1.0.230.apk","notes":"silent-test-only","sha256":"40a37aed9d8c5347b4c4b3e5c5b94d5580e32515e4cff34f8148a33c1e21074c"}
+{
+  "versionCode": 233,
+  "versionName": "1.0.233-ext",
+  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/hotelscreen-1.0.233.apk",
+  "notes": "静默升级后回前台；永久会员显示「永久」",
+  "sha256": "368bfc71e0bd7deae8deffa4a26e09156a55ebfbbe5e2ba08e066909eeeb8f54"
+}

@@ -1,1 +1,9 @@
-{"versionCode":107,"versionName":"3.0.70-s","apkUrl":"https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/player-3.0.70.apk","notes":"20261019b","sha256":"b5bfc3c78575372c46fa1440b9c8956d5133a19123ad33a95bee996b32384b93","channel":"store","board":"a133"}
+{
+  "versionCode": 108,
+  "versionName": "3.0.71-s",
+  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/player-3.0.71.apk",
+  "notes": "静默升级后回前台；永久会员显示「永久」",
+  "sha256": "656c6b2e3bb5bec5b4bb6484198332bb060e2d76739ca4663d2110768778bf44",
+  "channel": "store",
+  "board": "a133"
+}
