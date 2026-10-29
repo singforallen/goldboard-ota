@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "2.5.23",
-  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261019b/goldboard-2.5.23.apk",
-  "notes": "静默升级后回前台；永久会员显示「永久」",
-  "sha256": "958d5522fbf5fe8360012c7e99cf0ef417994f885d769608335cc043b1558ec3"
+  "versionCode": 42,
+  "versionName": "2.5.26",
+  "apkUrl": "https://github.com/singforallen/goldboard-ota/releases/download/prod-20261029/goldboard-2.5.26.apk",
+  "notes": "自动行情支持多行共用接口字段；行情长时间失败时大屏提示",
+  "sha256": "cc3e8e88d661d2d380aeb2c89d561d55cd5bff754edcb02d91cf20dd03155348"
 }
